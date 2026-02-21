@@ -1,0 +1,62 @@
+[
+  {
+    "id": "project-1",
+    "title": "Customer Service Excellence",
+    "subtitle": "CCI Kenya",
+    "description": "Managing inbound and outbound customer communications via phone and email. Resolving inquiries related to billing, account management, product features, and technical issues while maintaining high customer satisfaction ratings.",
+    "image": "/placeholder.svg?height=600&width=800",
+    "tags": ["Customer Service", "CRM Software", "Phone Support", "Email Support"],
+    "featured": true,
+    "link": ""
+  },
+  {
+    "id": "project-2",
+    "title": "Productivity & Executive Support",
+    "subtitle": "Prialto",
+    "description": "Supporting executives and teams with productivity management, calendar coordination, email management, and administrative workflow optimization.",
+    "image": "/placeholder.svg?height=600&width=800",
+    "tags": ["Productivity", "Calendar Management", "Email Management", "Administrative Support"],
+    "featured": true,
+    "link": ""
+  },
+  {
+    "id": "project-3",
+    "title": "Financial Operations Support",
+    "subtitle": "PCEA SACCO LTD",
+    "description": "Supported daily financial operations including tax filing, loan documentation processing, account reconciliations, and financial report preparation using Microsoft Office tools.",
+    "image": "/placeholder.svg?height=600&width=800",
+    "tags": ["Financial Operations", "Microsoft Excel", "Data Entry", "Tax Filing"],
+    "featured": true,
+    "link": ""
+  },
+  {
+    "id": "project-4",
+    "title": "CRM & Customer Interaction Management",
+    "subtitle": "Process Optimization",
+    "description": "Utilizing CRM software to log customer interactions, track cases, update profiles with precision, and contribute feedback to improve customer service processes and system efficiency.",
+    "image": "/placeholder.svg?height=600&width=800",
+    "tags": ["CRM Software", "Customer Interaction", "Process Improvement", "Data Management"],
+    "featured": true,
+    "link": ""
+  },
+  {
+    "id": "project-5",
+    "title": "Data Entry & Reporting",
+    "subtitle": "Microsoft Office Suite",
+    "description": "Performing accurate data entry, financial analysis, and report generation using Microsoft Excel. Creating professional documents and presentations with Word and PowerPoint.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "tags": ["Microsoft Excel", "Data Entry", "Reporting", "Microsoft Word", "PowerPoint"],
+    "featured": false,
+    "link": ""
+  },
+  {
+    "id": "project-6",
+    "title": "Technical Troubleshooting Support",
+    "subtitle": "Customer Problem Resolution",
+    "description": "Assisting customers with troubleshooting common technical problems, guiding them through effective solutions while prioritizing and handling multiple requests simultaneously.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "tags": ["Troubleshooting", "Problem Solving", "Multitasking", "Technical Support"],
+    "featured": false,
+    "link": ""
+  }
+]

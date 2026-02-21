@@ -1,0 +1,95 @@
+[
+  {
+    "id": "role-1",
+    "period": "Mar 2025 – Present",
+    "title": "Productivity Assistant",
+    "company": "Prialto",
+    "description": "Supporting executives and teams with productivity management, scheduling, and administrative coordination.",
+    "achievements": [
+      "Manage executive calendars, scheduling, and meeting coordination",
+      "Handle email management and prioritize communications efficiently",
+      "Support workflow optimization and task tracking for team productivity",
+      "Coordinate logistics and administrative tasks across departments"
+    ],
+    "skills": [
+      "Productivity Management",
+      "Calendar Management",
+      "Email Management",
+      "Scheduling",
+      "Administrative Support"
+    ]
+  },
+  {
+    "id": "role-2",
+    "period": "Oct 2024 – Present",
+    "title": "Customer Service Representative",
+    "company": "CCI, Kenya",
+    "description": "Managing inbound and outbound customer communications, resolving inquiries, and maintaining high customer satisfaction ratings.",
+    "achievements": [
+      "Manage inbound and outbound customer communications via phone and email with timely, accurate support",
+      "Resolve inquiries related to billing, account management, product features, and technical issues",
+      "Utilize CRM software to log interactions, track customer cases, and update profiles with precision",
+      "Assist customers with troubleshooting common technical problems and guiding them through solutions",
+      "Handle multiple customer requests simultaneously in a fast-paced environment",
+      "Achieved recognition for consistently maintaining high customer satisfaction ratings"
+    ],
+    "skills": [
+      "Customer Service",
+      "CRM Software",
+      "Phone Support",
+      "Email Support",
+      "Troubleshooting",
+      "Multitasking"
+    ]
+  },
+  {
+    "id": "role-3",
+    "period": "Apr 2023 – Jun 2023",
+    "title": "Assistant Accountant Intern",
+    "company": "PCEA SACCO LTD, Nairobi",
+    "description": "Supported daily financial operations including tax filing, loan documentation, and financial record maintenance.",
+    "achievements": [
+      "Supported daily financial operations including tax filing and compliance with tax regulations",
+      "Processed and verified loan documentation for accuracy and completeness",
+      "Responded to member inquiries on loan options, repayment plans, and financial policies",
+      "Assisted with account reconciliations, financial record maintenance, and report preparation",
+      "Utilized Microsoft Excel for data entry, financial analysis, and report generation",
+      "Created documents and presentations in Microsoft Word and PowerPoint for administrative support"
+    ],
+    "skills": [
+      "Financial Operations",
+      "Microsoft Excel",
+      "Data Entry",
+      "Tax Filing",
+      "Loan Processing",
+      "Microsoft Word",
+      "PowerPoint"
+    ]
+  },
+  {
+    "id": "education-1",
+    "period": "2021 – 2025",
+    "title": "B.Sc. Mathematics & Computer Science",
+    "company": "Kenyatta University",
+    "description": "Comprehensive degree combining mathematical foundations with computer science principles.",
+    "achievements": [
+      "Strong foundation in algorithms and data structures",
+      "Applied mathematics to problem-solving",
+      "Developed programming skills across multiple languages"
+    ],
+    "skills": ["Mathematics", "Computer Science", "Algorithms", "Programming", "Problem Solving"]
+  },
+  {
+    "id": "certification-1",
+    "period": "2024",
+    "title": "AI Career Essentials Certification",
+    "company": "Professional Development",
+    "description": "Certified in AI Career Essentials, gaining foundational knowledge in artificial intelligence applications.",
+    "achievements": [
+      "Completed AI fundamentals curriculum",
+      "Understanding of AI tools for business operations",
+      "Applied AI concepts to enhance productivity and workflow"
+    ],
+    "skills": ["AI Fundamentals", "AI Tools", "Career Development", "Productivity"]
+  }
+]
