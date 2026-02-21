@@ -13,23 +13,23 @@ export const metadata: Metadata = {
   title: "Josephine Wambui - Customer Service & Administrative Professional",
   description:
     "Portfolio of Josephine Wambui showcasing expertise in customer service, administrative support, and productivity management",
-  generator: "v0.app",
+  generator: "ojpierre",
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/",
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "/",
         type: "image/svg+xml",
       },
     ],
-    apple: "/apple-icon.png",
+    apple: "/",
   },
 }
 
